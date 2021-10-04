@@ -1,0 +1,4 @@
+[{"courseId":1,"name":"Advanced Physics","duration":"3 months","topics":"Physics,Chemestry,Math","fee":6000,"image":"https://images-na.ssl-images-amazon.com/images/I/5185VMRmVML.jpg"},
+{"courseId":2,"name":"Advanced Chemistry Practical","duration":"3 months","topics":"Chemestry","fee":5000,"image":"https://dcassetcdn.com/design_img/2980308/133708/133708_16434057_2980308_f13002ce_image.jpg"},
+{"courseId":3,"name":"Chamok Hasan Math Theory","duration":"3 months","topics":"Math","fee":5000,"image":"https://image.shutterstock.com/image-vector/mathematics-vector-cover-background-scientific-260nw-568058890.jpg"},
+{"courseId":4,"name":"Dynamic Physics","duration":"3 months","topics":"Physics","fee":5000,"image":"https://dcassetcdn.com/design_img/1690062/497423/497423_9273880_1690062_d5cdffab_image.jpg"}]
